@@ -1,0 +1,7 @@
+numpy==1.21.4
+pandas 1.4.3
+streamlit==1.2.0
+matplotlib==3.5.2
+pandas-datareader==0.10.0
+keras-models==0.0.7
+scikit-mlm==0.1.1
